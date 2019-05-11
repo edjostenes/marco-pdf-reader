@@ -1,0 +1,50 @@
+{
+    "Data Consulta": "03/05/2019 12:45:48",
+    "Nome": "JOSE NEWTON DA SILVA",
+    "Número do Benefício": "514.443.164-6",
+    "CPF": "430.464.876-49",
+    "Características": {
+        "É Pensão Alimentícia": "Não",
+        "Possui Representante Legal": "Não",
+        "Bloqueado para Empréstimo": "Não",
+        "Elegível para Empréstimo": "Sim"
+    },
+    "Base de Cálculo": 4634.13,
+    "Margem para Empréstimo": 2.34,
+    "Margem para Cartão": 0.00,
+    "CBC/Banco": "104 - CEF",
+    "Tipo": "Conta Corrente",
+    "Ag.": "4788",
+    "C/C.": "0000231740",
+    "Contratos de Empréstimos": [{
+            "contrato": "212472110000091388",
+            "banco": "104 - CEF",
+            "Comp.1ª Parcela": "02/2019",
+            "Comp. Última Parcela": "01/2025",
+            "Data inclusão": "05/02/2019",
+            "QTD Parcelas": "72",
+            "Valor Parcela": 43.89,
+            "Valor Emprestado": 1600.00,
+            "Situação": "Ativo"
+        },
+        {
+            ...
+        },
+        {
+            ...
+        }
+    ],
+    "Contratos de Cartão": [{
+            "No Contrato": "0229015298914",
+            "Banco": "623 - Panamericano",
+            "Data de Inclusão": "26/05/2017",
+            "Situação": "Ativo",
+            "Limite": None,
+            "Valor": 219.48
+        },
+        {
+            ...
+        }
+    ],
+    "Pdf":"base64"
+}
